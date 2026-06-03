@@ -1,0 +1,898 @@
+{
+  "name": "cuestionario",
+  "nodes": [
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "3ad5f414-463d-47be-a107-1f7da007038c",
+              "name": "={{ $json.question_bxBQlZ.label }}",
+              "value": "={{ $json.question_bxBQlZ.value }}",
+              "type": "string"
+            },
+            {
+              "id": "3702c61b-aeaf-4e32-9c36-521b379a39be",
+              "name": "={{ $json.question_ALoelz.label }}",
+              "value": "={{ $json.question_ALoelz.value }}",
+              "type": "string"
+            },
+            {
+              "id": "da5b4676-aca0-4b9e-95c7-e66ebc7497a1",
+              "name": "={{ $json.question_BkOWGK.label }}",
+              "value": "={{ $json.question_BkOWGK.value }}",
+              "type": "string"
+            },
+            {
+              "id": "9d1d35a0-006b-4e86-a20d-ca3c1df555b1",
+              "name": "={{ $json.question_k6DBYe.label }}",
+              "value": "={{ $json.question_k6DBYe.value }}",
+              "type": "string"
+            },
+            {
+              "id": "104852c9-7a62-4e3f-8238-b1d10d95da1b",
+              "name": "={{ $json.question_vy75ND.label }}",
+              "value": "={{ $json.question_vy75ND.value }}",
+              "type": "string"
+            },
+            {
+              "id": "6f4fafd5-96c7-47c9-a1bc-5769529743d2",
+              "name": "={{ $json.question_Kl7KMV.label }}",
+              "value": "={{ $json.question_Kl7KMV.value }}",
+              "type": "string"
+            },
+            {
+              "id": "33109ccf-733b-4221-9399-94e4c2feb158",
+              "name": "={{ $json.question_LWALdp.label }}",
+              "value": "={{ $json.question_LWALdp.value }}",
+              "type": "string"
+            },
+            {
+              "id": "ff366b7a-7571-49c7-a4c6-b824f9d206b8",
+              "name": "={{ $json.question_pBjpLB.label }}",
+              "value": "={{ $json.question_pBjpLB.value }}",
+              "type": "string"
+            },
+            {
+              "id": "d4e9650a-3c9a-4214-8a09-5950e7566ea8",
+              "name": "={{ $json.question_17Zorl.label }}",
+              "value": "={{ $json.question_17Zorl.value }}",
+              "type": "string"
+            },
+            {
+              "id": "1b5eeeaa-56b0-451b-a287-081524620483",
+              "name": "={{ $json.question_JAav2R.label }}",
+              "value": "={{ $json.question_MzkpAA.value }}",
+              "type": "string"
+            },
+            {
+              "id": "e50ccdd5-c898-460c-8b3d-a523c407a3b5",
+              "name": "={{ $json.question_JAav2R.label }}",
+              "value": "={{ $json.question_JAav2R.value }}",
+              "type": "string"
+            },
+            {
+              "id": "bcc5a2fb-4574-4e42-9666-b235f88c2842",
+              "name": "={{ $json.question_gMy654.label }}",
+              "value": "={{ $json.question_gMy654.value }}",
+              "type": "string"
+            },
+            {
+              "id": "a8245749-5a2e-4d75-9a34-eb6f70cd3271",
+              "name": "={{ $json.question_y9K5lx.label }}",
+              "value": "={{ $json.question_y9K5lx.value }}",
+              "type": "string"
+            },
+            {
+              "id": "f8105163-4c2b-4b78-aadc-033d4790c454",
+              "name": "={{ $json.question_XWVPeY.label }}",
+              "value": "={{ $json.question_XWVPeY.value }}",
+              "type": "string"
+            },
+            {
+              "id": "37162014-5b82-495d-9d95-241cee1760bb",
+              "name": "={{ $json.question_8Qv4dP.label }}",
+              "value": "={{ $json.question_8Qv4dP.value }}",
+              "type": "string"
+            },
+            {
+              "id": "c9ef2171-0f81-4877-8931-ae1dfc74ac73",
+              "name": "={{ $json.question_062REj.label }}",
+              "value": "={{ $json.question_062REj.value }}",
+              "type": "string"
+            },
+            {
+              "id": "02cb6c2e-8e81-4fa9-9124-c33f38202ca1",
+              "name": "={{ $json.question_zDp5K0.label }}",
+              "value": "={{ $json.question_zDp5K0.value }}",
+              "type": "string"
+            },
+            {
+              "id": "958483c5-9c31-4b74-a2f1-e6f3ec99223f",
+              "name": "={{ $json.question_516PdE.label }}",
+              "value": "={{ $json.question_516PdE.value }}",
+              "type": "string"
+            },
+            {
+              "id": "f5a3da8f-e0ea-40d9-a2b8-a7987bf2d078",
+              "name": "={{ $json.question_dxLeYK.label }}",
+              "value": "={{ $json.question_dxLeYK.value }}",
+              "type": "string"
+            },
+            {
+              "id": "6ac80845-8794-4b92-a59c-8cc1259d252a",
+              "name": "={{ $json.question_YWElZJ.label }}",
+              "value": "={{ $json.question_YWElZJ.value }}",
+              "type": "string"
+            },
+            {
+              "id": "d568475d-5fd6-4041-84a6-4a4b46f97099",
+              "name": "={{ $json.question_Ddr6VZ.label }}",
+              "value": "={{ $json.question_Ddr6VZ.value }}",
+              "type": "string"
+            },
+            {
+              "id": "6d690539-d1da-40c3-a5ca-69549c7243db",
+              "name": "={{ $json.question_ldokNv.label }}",
+              "value": "={{ $json.question_ldokNv.value }}",
+              "type": "string"
+            },
+            {
+              "id": "7a77d705-59c0-4cf1-af3c-485f1dd08bb0",
+              "name": "={{ $json.question_R5Xyzj.label }}",
+              "value": "={{ $json.question_R5Xyzj.value }}",
+              "type": "string"
+            },
+            {
+              "id": "34a7828e-f5ce-4b64-aea5-07780fbc503f",
+              "name": "sessionId",
+              "value": "={{ $json.respondentId }}",
+              "type": "string"
+            },
+            {
+              "id": "74da5ee2-ff5f-44a5-8260-01de75f5b9a5",
+              "name": "respuestas",
+              "value": "={{ $json.question_bxBQlZ.label }}:{{ $json.question_bxBQlZ.value }}\n\n{{ $json.question_ALoelz.label }}:{{ $json.question_ALoelz.value }}\n\n{{ $json.question_BkOWGK.label }}:{{ $json.question_BkOWGK.value }}\n\n{{ $json.question_k6DBYe.label }}:{{ $json.question_k6DBYe.value }}\n\n{{ $json.question_vy75ND.label }}:{{ $json.question_vy75ND.value }}\n\n{{ $json.question_Kl7KMV.label }}:{{ $json.question_Kl7KMV.value }}\n\n{{ $json.question_LWALdp.label }}:{{ $json.question_LWALdp.value }}\n\n{{ $json.question_pBjpLB.label }}:{{ $json.question_pBjpLB.value }}\n\n{{ $json.question_17Zorl.label }}:{{ $json.question_17Zorl.value }}\n\n{{ $json.question_MzkpAA.label }}:{{ $json.question_MzkpAA.value }}\n\n{{ $json.question_JAav2R.label }}:{{ $json.question_JAav2R.value }}\n\n{{ $json.question_gMy654.label }}:{{ $json.question_gMy654.value }}\n\n{{ $json.question_y9K5lx.label }}:{{ $json.question_y9K5lx.value }}\n\n{{ $json.question_XWVPeY.label }}:{{ $json.question_XWVPeY.value }}\n\n{{ $json.question_8Qv4dP.label }}:{{ $json.question_8Qv4dP.value }}\n\n{{ $json.question_062REj.label }}:{{ $json.question_062REj.value }}\n\n{{ $json.question_zDp5K0.label }}:{{ $json.question_zDp5K0.value }}\n\n{{ $json.question_516PdE.label }}:{{ $json.question_516PdE.value }}\n\n{{ $json.question_dxLeYK.label }}:{{ $json.question_dxLeYK.value }}\n\n{{ $json.question_YWElZJ.label }}:{{ $json.question_YWElZJ.value }}\n\n{{ $json.question_Ddr6VZ.label }}:{{ $json.question_Ddr6VZ.value }}\n\n{{ $json.question_ldokNv.label }}:{{ $json.question_ldokNv.value }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        0,
+        16
+      ],
+      "id": "ac896f6c-8360-4113-9a23-e7cff8c0a9e5",
+      "name": "preguntas"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $json.respuestas }}",
+        "options": {
+          "systemMessage": "=# Sistema: Evaluador Automático de Candidatos\n\nEres un analista experto en recursos humanos.\n\nRecibirás TODA la información del candidato en una sola variable llamada:\n\n{{$json.preguntas}}\n\nEl contenido es TEXTO PLANO e incluye:\n- Preguntas\n- Respuestas\n- Datos personales\n- Enlaces a documentos (CV, solicitud, identificación, comprobante, etc.)\n\nNO asumas que los datos vienen en formato JSON estructurado.\nDebes leer, interpretar y extraer la información desde el texto.\n\n---\n\n## 1. Extraer información clave del texto\n\nA partir del contenido de `{{$json.preguntas}}`, identifica y extrae, cuando exista:\n\n- Nombre completo\n- Correo electrónico\n- Teléfono\n- Disponibilidad para iniciar\n- Modalidad de trabajo\n- Horario disponible\n- Años de experiencia general\n- Experiencia específica\n- Nivel de habilidades\n- Fortalezas\n- Motivación\n- Expectativa salarial\n- Equipo disponible\n- Situación laboral actual\n- Restricciones\n- Enlaces a documentos (solicitud, identificación, comprobante, etc.)\n\nSi algún dato NO está presente, no lo inventes.\n\n---\n\n## 2. Evaluar al candidato\n\nEvalúa al candidato considerando:\n\n- Disponibilidad real\n- Experiencia general y específica\n- Nivel de habilidades\n- Motivación (razón para aplicar)\n- Profesionalismo y claridad en las respuestas\n- Expectativa salarial vs perfil\n- Si cuenta o no con herramientas/equipo\n- Coherencia general del perfil\n\n---\n\n## 3. Asignar un puntaje (1 a 100)\n\nCalcula un puntaje basado en:\n- Calidad del perfil\n- Experiencia\n- Actitud\n- Disponibilidad\n- Viabilidad para una vacante estándar\n\nEntre más sólido el perfil, mayor el puntaje.\n\n---\n\n## 4. Clasificar al candidato\n\nSelecciona SOLO UNA opción:\n\n- **APTO** → Puede avanzar a la siguiente fase\n- **POSIBLEMENTE APTO** → Requiere revisión humana\n- **NO APTO** → No cumple criterios mínimos\n\n---\n\n## 5. Generar observaciones\n\nEn un solo texto:\n- Enumera de 2 a 5 razones claras de tu decisión\n- Agrega una recomendación final breve (1–2 líneas)\n\nEjemplo:\n“Disponibilidad aceptable. Experiencia limitada. Habilidades básicas. Motivación débil. Recomendación: No avanzar a la siguiente fase.”\n\n---\n\n## 6. FORMATO DE RESPUESTA OBLIGATORIO\n\nResponde SIEMPRE con un JSON EXACTO como este:\n\n{\n\"nombre\": \"\",\n\"correo\": \"\",\n\"telefono\": \"\",\n\"fecha\": \"\",\n\"puntaje\": 0,\n\"clasificacion\": \"\",\n\"observaciones\": \"\"\n}\n\n\n### Reglas estrictas:\n- **fecha** → fecha actual en formato YYYY-MM-DD\n- **puntaje** → número entre 1 y 100\n- **clasificacion** → \"APTO\", \"POSIBLEMENTE APTO\" o \"NO APTO\"\n- NO agregues campos extra\n- NO agregues texto fuera del JSON\n- NO inventes información que no esté en el texto\n\n---\n\n## 7. Instrucciones para n8n\n\n- Si **clasificacion = APTO**:\n  - El flujo continuará para guardar en Google Sheets\n  - Se ejecutará el nodo de notificación\n\n- Si **clasificacion = POSIBLEMENTE APTO**:\n  - Solo devuelve el JSON para revisión humana\n\n- Si **clasificacion = NO APTO**:\n  - Devuelve únicamente el JSON\n  - No debe activarse ningún nodo adicional\n\n---\n\n## 8. Responde únicamente con el JSON final\nSin explicaciones, sin comentarios, sin texto adicional.\n"
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3,
+      "position": [
+        416,
+        0
+      ],
+      "id": "a3655d1e-de45-4875-a20d-96bb89302bd2",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "value": "gpt-3.5-turbo",
+          "mode": "list",
+          "cachedResultName": "gpt-3.5-turbo"
+        },
+        "builtInTools": {},
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.3,
+      "position": [
+        288,
+        208
+      ],
+      "id": "2605e412-f462-4f5f-9660-375866936afa",
+      "name": "OpenAI Chat Model",
+      "credentials": {
+        "openAiApi": {
+          "id": "ZIIBNyQFbHYMPvN3",
+          "name": "OpenAi account"
+        }
+      }
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
+      "typeVersion": 1.3,
+      "position": [
+        432,
+        208
+      ],
+      "id": "079624d2-7891-47a7-9f39-febd594cd4e7",
+      "name": "Simple Memory"
+    },
+    {
+      "parameters": {
+        "formId": "EkK9qr"
+      },
+      "type": "n8n-nodes-tallyforms.tallyTrigger",
+      "typeVersion": 2,
+      "position": [
+        -208,
+        32
+      ],
+      "id": "f69fef98-e1a3-4166-819c-a4ccce4299d2",
+      "name": "Tally Trigger",
+      "webhookId": "3bcf487a-7f95-48ce-a038-efb5ce70d47f",
+      "credentials": {
+        "tallyApi": {
+          "id": "C41cRz6mmn1ms3Jy",
+          "name": "Tally account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "7c5349a4-2588-42ff-8888-5138baaf2967",
+              "name": "output",
+              "value": "={{ $json.output.parseJson() }}",
+              "type": "object"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        768,
+        0
+      ],
+      "id": "5e3d0ac8-1d1f-4451-970f-0cea63f00c1d",
+      "name": "Edit Fields"
+    },
+    {
+      "parameters": {
+        "rules": {
+          "values": [
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 3
+                },
+                "conditions": [
+                  {
+                    "leftValue": "={{ $json.output.clasificacion }}",
+                    "rightValue": "POSIBLEMENTE APTO",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals"
+                    },
+                    "id": "83cb60d7-688d-48cc-b29c-fa2450c2bab9"
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "posible"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 3
+                },
+                "conditions": [
+                  {
+                    "id": "98f8b3d7-cd0d-4e8c-a8a3-91265ac1229a",
+                    "leftValue": "={{ $json.output.clasificacion }}",
+                    "rightValue": "APTO",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "apto"
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 3
+                },
+                "conditions": [
+                  {
+                    "id": "cd666547-a6d4-49a8-80ff-a21f0d492241",
+                    "leftValue": "={{ $json.output.clasificacion }}",
+                    "rightValue": "NO APTO",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              },
+              "renameOutput": true,
+              "outputKey": "no"
+            }
+          ]
+        },
+        "options": {
+          "fallbackOutput": "extra"
+        }
+      },
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 3.4,
+      "position": [
+        976,
+        0
+      ],
+      "id": "9141991a-33a7-453d-9b95-f61cfa5a769a",
+      "name": "Switch"
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1ABie_yChbWilL44AxCkaZvCzNPDEadoK2NfAoGHlfTs",
+          "mode": "list",
+          "cachedResultName": "reclutamiento",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1ABie_yChbWilL44AxCkaZvCzNPDEadoK2NfAoGHlfTs/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "gid=0",
+          "mode": "list",
+          "cachedResultName": "Hoja 1",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1ABie_yChbWilL44AxCkaZvCzNPDEadoK2NfAoGHlfTs/edit#gid=0"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "Nombre": "={{ $('preguntas').item.json.Nombre }}",
+            "Correo": "={{ $('preguntas').item.json['Correo electrónico '] }}",
+            "Telefono": "={{ $('preguntas').item.json['Teléfono '] }}",
+            "Fecha": "={{ $now.format('yyyy-MM-dd') }}",
+            "puntaje": "={{ $('Edit Fields').item.json.output.puntaje }}",
+            "clasificacion": "={{ $('Edit Fields').item.json.output.clasificacion }}",
+            "observaciones": "={{ $('Edit Fields').item.json.output.observaciones }}",
+            "Solicitud": "={{ $('preguntas').item.json['Solicitud de empleo '] }}",
+            "Identificacion": "={{ $('preguntas').item.json['Identificación 🪪'] }}",
+            "Comprobante domicilio": "={{ $('preguntas').item.json['Comprobante de domicilio '] }}"
+          },
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "Nombre",
+              "displayName": "Nombre",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Correo",
+              "displayName": "Correo",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Telefono",
+              "displayName": "Telefono",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Fecha",
+              "displayName": "Fecha",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "puntaje",
+              "displayName": "puntaje",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "clasificacion",
+              "displayName": "clasificacion",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "observaciones",
+              "displayName": "observaciones",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Solicitud",
+              "displayName": "Solicitud",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Identificacion",
+              "displayName": "Identificacion",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Comprobante domicilio",
+              "displayName": "Comprobante domicilio",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        1296,
+        -32
+      ],
+      "id": "c70b1e4c-06b7-4f81-8ea9-8e501ec4bfef",
+      "name": "Append row in sheet",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "meZnXIZ9v1MNr5oT",
+          "name": "Google Sheets dev"
+        }
+      }
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [
+        1296,
+        160
+      ],
+      "id": "6d9573c8-40ed-475a-8dca-b456c969ec51",
+      "name": "No Operation, do nothing"
+    },
+    {
+      "parameters": {
+        "resource": "messages-api",
+        "instanceName": "grova",
+        "remoteJid": "5219512016663@s.whatsapp.net",
+        "messageText": "=📌 *Nuevo prospecto registrado*\n\nSe ha identificado un candidato que cumple con los criterios iniciales del proceso de reclutamiento.\n\n👤 *Nombre:* {{ $('preguntas').item.json.Nombre }}\n📞 *Teléfono:* {{ $('preguntas').item.json['Teléfono '] }}\n📧 *Correo:* {{ $('preguntas').item.json['Correo electrónico '] }}\n\n📊 *Puntuación obtenida:* {{ $('Edit Fields').item.json.output.puntaje }}/100\n\n🔍 *Estatus:* Prospecto calificado para revisión\n\nPor favor, continuar con la siguiente etapa del proceso según corresponda.\n",
+        "options_message": {}
+      },
+      "type": "n8n-nodes-evolution-api.evolutionApi",
+      "typeVersion": 1,
+      "position": [
+        1504,
+        -32
+      ],
+      "id": "eb075aa0-9838-4b14-a078-8df1fe7ee193",
+      "name": "Enviar texto",
+      "credentials": {
+        "evolutionApi": {
+          "id": "FpBL40dtcPPaa6cK",
+          "name": "grova_oz"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "integrations-api",
+        "operation": "evolution-bot",
+        "instanceName": "=grova",
+        "resourceForEvolutionBot": "changeStatusEvolutionBot",
+        "evolutionBotId": "={{ $json.data.key.id }}",
+        "remoteJid": "={{ $json.data.key.remoteJid }}",
+        "status": "closed"
+      },
+      "type": "n8n-nodes-evolution-api.evolutionApi",
+      "typeVersion": 1,
+      "position": [
+        1792,
+        -16
+      ],
+      "id": "0951cc47-340f-4981-8f64-e9fb6ed749c8",
+      "name": "close sesion",
+      "credentials": {
+        "evolutionApi": {
+          "id": "FpBL40dtcPPaa6cK",
+          "name": "grova_oz"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "messages-api",
+        "instanceName": "grova",
+        "remoteJid": "5219512016663@s.whatsapp.net",
+        "messageText": "=📌 *Nuevo prospecto registrado*\n\nSe ha identificado un candidato que cumple con los criterios iniciales del proceso de reclutamiento.\n\n👤 *Nombre:* {{ $('preguntas').item.json.Nombre }}\n📞 *Teléfono:* {{ $('preguntas').item.json['Teléfono '] }}\n📧 *Correo:* {{ $('preguntas').item.json['Correo electrónico '] }}\n\n📊 *Puntuación obtenida:* {{ $('Edit Fields').item.json.output.puntaje }}/100\n\n🔍 *Estatus:* Prospecto calificado para revisión\n\nPor favor, continuar con la siguiente etapa del proceso según corresponda.\n",
+        "options_message": {}
+      },
+      "type": "n8n-nodes-evolution-api.evolutionApi",
+      "typeVersion": 1,
+      "position": [
+        2064,
+        176
+      ],
+      "id": "9e065018-1bb7-41c3-a0dc-5c9e04037a60",
+      "name": "Enviar texto1",
+      "credentials": {
+        "evolutionApi": {
+          "id": "FpBL40dtcPPaa6cK",
+          "name": "grova_oz"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "resource": "integrations-api",
+        "operation": "evolution-bot",
+        "instanceName": "=grova",
+        "resourceForEvolutionBot": "changeStatusEvolutionBot",
+        "evolutionBotId": "={{ $json.data.key.id }}",
+        "remoteJid": "={{ $json.data.key.remoteJid }}",
+        "status": "closed"
+      },
+      "type": "n8n-nodes-evolution-api.evolutionApi",
+      "typeVersion": 1,
+      "position": [
+        2352,
+        192
+      ],
+      "id": "6fb7d534-0683-4b88-9609-81c61d20e25a",
+      "name": "close sesion1",
+      "credentials": {
+        "evolutionApi": {
+          "id": "FpBL40dtcPPaa6cK",
+          "name": "grova_oz"
+        }
+      }
+    }
+  ],
+  "pinData": {
+    "Tally Trigger": [
+      {
+        "json": {
+          "id": "rjQJ5zM",
+          "formId": "EkK9qr",
+          "formName": "Reclutamiento Grova",
+          "respondentId": "gD9vL8d",
+          "createdAt": "2025-12-16T17:38:57.000Z",
+          "question_bxBQlZ": {
+            "label": "Nombre",
+            "value": "Breistar",
+            "type": "INPUT_TEXT"
+          },
+          "question_ALoelz": {
+            "label": "Correo electrónico ",
+            "value": "breistar.sanmo@gmail.com",
+            "type": "INPUT_EMAIL"
+          },
+          "question_BkOWGK": {
+            "label": "Teléfono ",
+            "value": "+529516098302",
+            "type": "INPUT_PHONE_NUMBER"
+          },
+          "question_k6DBYe": {
+            "label": "Solicitud de empleo ",
+            "value": null,
+            "type": "FILE_UPLOAD"
+          },
+          "question_vy75ND": {
+            "label": "Identificación 🪪",
+            "value": null,
+            "type": "FILE_UPLOAD"
+          },
+          "question_Kl7KMV": {
+            "label": "Comprobante de domicilio ",
+            "value": null,
+            "type": "FILE_UPLOAD"
+          },
+          "question_LWALdp": {
+            "label": "¿Cuál es tu disponibilidad para iniciar?",
+            "value": "Inmediatamente ",
+            "type": "MULTIPLE_CHOICE"
+          },
+          "question_pBjpLB": {
+            "label": "¿Tienes disponibilidad para trabajar de forma?",
+            "value": "Presencial ",
+            "type": "MULTIPLE_CHOICE"
+          },
+          "question_17Zorl": {
+            "label": "Selecciona tu disponibilidad horaria",
+            "value": "Turno nocturno ",
+            "type": "MULTIPLE_CHOICE"
+          },
+          "question_MzkpAA": {
+            "label": "¿Cuántos años de experiencia laboral tienes en general?",
+            "value": "Más de 5 años",
+            "type": "MULTIPLE_CHOICE"
+          },
+          "question_JAav2R": {
+            "label": "¿Tienes experiencia específica en el área relacionada con el puesto?",
+            "value": "Si",
+            "type": "MULTIPLE_CHOICE"
+          },
+          "question_gMy654": {
+            "label": "Describe brevemente tu experiencia más relevante",
+            "value": "Nansns",
+            "type": "TEXTAREA"
+          },
+          "question_y9K5lx": {
+            "label": "¿Qué nivel consideras tener en las habilidades principales para este tipo de puesto?",
+            "value": "Básico ",
+            "type": "MULTIPLE_CHOICE"
+          },
+          "question_XWVPeY": {
+            "label": "Menciona 3 habilidades que consideres tus fortalezas",
+            "value": "Nsnana",
+            "type": "TEXTAREA"
+          },
+          "question_8Qv4dP": {
+            "label": "¿Tienes certificaciones, cursos o estudios relacionados?",
+            "value": "Si",
+            "type": "MULTIPLE_CHOICE"
+          },
+          "question_062REj": {
+            "label": "Si respondiste “Sí”, menciona cuáles",
+            "value": "NbN",
+            "type": "TEXTAREA"
+          },
+          "question_zDp5K0": {
+            "label": "¿Por qué te interesa esta vacante?",
+            "value": "Banana",
+            "type": "TEXTAREA"
+          },
+          "question_516PdE": {
+            "label": "¿Cuáles son tus expectativas salariales?",
+            "value": "Nanana",
+            "type": "TEXTAREA"
+          },
+          "question_dxLeYK": {
+            "label": "¿Cuentas con el equipo o herramientas necesarias para desempeñar el trabajo?",
+            "value": "Si",
+            "type": "MULTIPLE_CHOICE"
+          },
+          "question_YWElZJ": {
+            "label": "¿Actualmente te encuentras trabajando?",
+            "value": "Si, tiempo completo ",
+            "type": "MULTIPLE_CHOICE"
+          },
+          "question_Ddr6VZ": {
+            "label": "Si estás trabajando, ¿estás buscando un cambio laboral inmediato o a mediano plazo?",
+            "value": "Inmediatamente ",
+            "type": "MULTIPLE_CHOICE"
+          },
+          "question_ldokNv": {
+            "label": "¿Tienes alguna restricción legal, de horario o de disponibilidad que debamos conocer?",
+            "value": "Nban",
+            "type": "TEXTAREA"
+          },
+          "question_R5Xyzj": {
+            "label": "¿Aceptas que tus datos sean utilizados exclusivamente para el proceso de reclutamiento?",
+            "value": "Si",
+            "type": "MULTIPLE_CHOICE"
+          }
+        },
+        "pairedItem": {
+          "item": 0
+        }
+      }
+    ]
+  },
+  "connections": {
+    "preguntas": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Simple Memory": {
+      "ai_memory": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_memory",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Agent": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Tally Trigger": {
+      "main": [
+        [
+          {
+            "node": "preguntas",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "Switch",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Switch": {
+      "main": [
+        [
+          {
+            "node": "Append row in sheet",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Append row in sheet",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "No Operation, do nothing",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "No Operation, do nothing",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Append row in sheet": {
+      "main": [
+        [
+          {
+            "node": "Enviar texto",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Enviar texto": {
+      "main": [
+        [
+          {
+            "node": "close sesion",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Enviar texto1": {
+      "main": [
+        [
+          {
+            "node": "close sesion1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "close sesion": {
+      "main": [
+        [
+          {
+            "node": "Enviar texto1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "2778058c-1056-4a68-bd3a-504f0cf20cde",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "821fb54795c80905a139f9fab4a8caaa2a7d3876a3282d65751af22944b56fe0"
+  },
+  "id": "c5no5rYU1v107jQO",
+  "tags": []
+}
